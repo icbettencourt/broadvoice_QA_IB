@@ -9,4 +9,4 @@ This repository contains my QA assessment for the Broadvoice QA Analyst position
 ## How to Use  
 Clone the repository:  
    ```bash
-   open file https://github.com/icbettencourt/broadvoice_QA_IB/blob/main/assessement_IB.md
+   assessement_IB.md
